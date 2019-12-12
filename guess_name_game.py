@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # A program that guesses your name, given age and gender
 # Meant as a conceptual introduction to data science, in
 #  the mold of the binary tree animal-guessing-game
